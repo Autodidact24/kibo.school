@@ -11,9 +11,17 @@ JSON is a popular way to store data on the web, and it is similar to XML.
 
 Each object in JSON can contain multiple **key-value** pairs or other objects, which in turn can have their own key-value pairs or other objects nested within them. T
 
-he values recorded for different objects can vary. The JSON file is represented using curly brackets and can be visualized as a set of boxes, but the actual JSON data is contained within the brackets.
+The values recorded for different objects can vary. The JSON file is represented using curly brackets and can be visualized as a set of boxes, but the actual JSON data is contained within the brackets.
 
 ![Alt text](./images/json.png)
+
+## CSV
+
+CSV stands for "Comma Separated Values." It is a simple file format that stores data in a tabular format. Each row in the file represents a record, and each column represents a field in the record. The values in each row are separated by commas, hence the name.
+
+CSV files are widely used for storing and exchanging data between different software applications, especially for importing and exporting data into spreadsheets or databases. They are easy to create and edit using any text editor or spreadsheet software, and are compatible with almost all programming languages.
+
+While CSV files are simple to read and understand, they have some limitations compared to more structured data formats like JSON or XML. For example, CSV files do not support nested structures or complex data types, which can make it challenging to represent certain types of data. However, for basic tabular data, CSV files provide a straightforward and flexible format for storing and exchanging data.
 
 
 ## Your Task
