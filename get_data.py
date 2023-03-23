@@ -3,7 +3,6 @@ import pandas as pd
 import json
 import requests
 
-# TODO: Write here your actual code that computes the outputs
 
 url = "https://global-warming.org/api/co2-api"
 
