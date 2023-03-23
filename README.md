@@ -1,6 +1,6 @@
-# Measuring CO2 Emmission
+# Measuring CO2 Emission
 
-You are working at a Climate Tech startup. You are tasked with creating a presentation for your client showing historical CO2 emmission trends.
+You are working at a Climate Tech startup. You are tasked with creating a presentation for your client showing historical CO2 emission trends.
 
 ## JSON
 
